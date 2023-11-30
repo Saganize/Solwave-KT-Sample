@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668560032412",
+    "project_id": "saganize-test",
+    "storage_bucket": "saganize-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668560032412:android:644fcc4a754de0358ce359",
+        "android_client_info": {
+          "package_name": "com.example.saganizetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCFINUG-28GrdWbXvIkxhRjVU67teC7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
